@@ -1,16 +1,16 @@
-# 🎵 Serratec Music API
+# Serratec Music API
 
 API RESTful desenvolvida como projeto final da disciplina de Back-end do Serratec. A API gerencia usuários, artistas, músicas e playlists, aplicando os conceitos de Spring Boot, JPA/Hibernate e relacionamentos.
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 * **Nome:** Bruno Barbosa dos Santos
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído com as seguintes tecnologias:
 
@@ -25,7 +25,7 @@ O projeto foi construído com as seguintes tecnologias:
 
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 Antes de rodar a aplicação, certifique-se de que você tem os seguintes softwares instalados:
 
@@ -37,7 +37,7 @@ Antes de rodar a aplicação, certifique-se de que você tem os seguintes softwa
 
 ---
 
-## 🏁 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 Siga os passos abaixo para executar a aplicação localmente:
 
@@ -70,7 +70,7 @@ Siga os passos abaixo para executar a aplicação localmente:
 
 ---
 
-## 📚 Como Usar a API
+## Como Usar a API
 
 Toda a documentação da API, incluindo todos os endpoints, modelos de dados e descrições, foi gerada automaticamente com o Swagger (Springdoc).
 
@@ -91,7 +91,7 @@ Nesta interface, você pode testar todos os endpoints (POST, GET, PUT, DELETE) d
 
 ---
 
-## 🗄️ Modelagem de Dados (Relacionamentos)
+## Modelagem de Dados (Relacionamentos)
 
 * **Usuario <-> Perfil** (OneToOne)
 * **Usuario <-> Playlist** (OneToMany)
